@@ -1,0 +1,2 @@
+Site linkine buradan ulaşabilirsiniz;
+https://pydjango.netlify.app/
