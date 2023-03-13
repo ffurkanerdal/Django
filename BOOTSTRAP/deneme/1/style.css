@@ -1,0 +1,76 @@
+.nav-tab{
+    position: fixed;
+    z-index: 6 !important;
+    width: 700px
+}
+.nav-item:hover{
+    color: wheat !important;
+    opacity: 0.9;
+    background-color: rgba(0, 0, 0, 0.306);
+    border-radius:100px;
+
+}
+.nav-item{
+    color:wheat !important;
+    margin-left: 4%;
+}
+.nav-link{
+    color:wheat !important;
+    font-family: Crimson Text;    
+}
+
+/* NAVBAR END */
+
+/* SLIDER */
+
+
+.ada{
+    height: 300px;
+    max-width:100%;
+}
+/* SLIDER END */
+
+/* BOTTOM */
+.card{
+    float: left;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.card-text{
+    font-family: "Crimson Text";
+}
+/* BOTTOM END */
+
+/* HERO TEXT */
+
+.hero-text{
+    font-family: "Crimson Text";
+    font-size: x-large;
+}
+.hero-text:hover{
+    color: gray !important;
+}
+.asa{
+    background-image: url("https://picsum.photos/id/95/1400/500");
+}
+
+/* HERO TEXT END */
+
+/* LAST */
+.elma{
+    font-family: "Crimson Text";
+}
+/* LAST END */
+/* FOOTER */
+.aaa{
+    font-family: "Crimson Text";
+    padding: 2%;
+}
+.adas{
+    float: left;
+    list-style: none;   
+}
+.adas:hover{
+    background-color: none !important;
+}
+/* FOOTER END */
